@@ -1,0 +1,17 @@
+header {
+    width: 35em;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
+body {
+    width: 35em;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+  }
+  
+  div {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 12px;
+    width: 200px;
+    text-align: center;
+  }
